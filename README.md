@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello! I am BuildandPlay, a random guy from the Netherlands who enjoys games, 3D work, VFX and a bit of coding from time to time. That's about it.
 <!--
 **JustBuildandPlay/JustBuildandPlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
